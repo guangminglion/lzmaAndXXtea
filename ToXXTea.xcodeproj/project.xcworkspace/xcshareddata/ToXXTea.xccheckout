@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1B582593-4AD4-4F87-AC43-DE2A66E8B0B1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ToXXTea</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6b6bfbb1-a04d-5143-909c-8bb4bbcd218b</key>
+		<string>http://172.16.0.2/svn/three_art</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/tools/ToXXTea/ToXXTea.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6b6bfbb1-a04d-5143-909c-8bb4bbcd218b</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6b6bfbb1-a04d-5143-909c-8bb4bbcd218b</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6b6bfbb1-a04d-5143-909c-8bb4bbcd218b</string>
+			<key>IDESourceControlWCCName</key>
+			<string>three_art</string>
+		</dict>
+	</array>
+</dict>
+</plist>
